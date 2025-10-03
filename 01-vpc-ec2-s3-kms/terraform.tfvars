@@ -1,0 +1,5 @@
+aws_region    = "us-east-1"
+aws_profile   = "phz"
+project_name  = "vpc-ec2-s3-kms"
+instance_type = "t3.micro"
+bucket_name   = "vpc-ec2-s3-kms-bucket-01"
